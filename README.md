@@ -3,10 +3,11 @@
 <H2>FIN.AI</H2>
 <p>Irá ajudar o usuário nas questões financeiras,
 a ter mais controle de seu gastos, dando dicas práticas com tom claro e simples 💸</p>
+<p>Leia o txt para Informações de como utiliza-lo </p>
 <H3>CREDITOS:
-GUSTAVO MENEZES
-JULIA KITANO
-WEDLEY
+GUSTAVO MENEZES,
+JULIA KITANO,
+WEDLEY,
 RAISSA
 ANTONIO</H3>
 <h2>Linguagens e ferramentas utilizadas</h2>
