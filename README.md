@@ -10,4 +10,11 @@ WEDLEY
 RAISSA
 ANTONIO</H3>
 <h2>Linguagens e ferramentas utilizadas</h2>
+<li>Flask e suas funcionalidades</li>
+<li>Python<li>
+<li>Groq</li>
 <li>Html</li>
+<li>CSS</li>
+<li>JavaScript</li>
+
+
