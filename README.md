@@ -3,7 +3,8 @@
 <H2>FIN.AI</H2>
 <p>Irá ajudar o usuário nas questões financeiras,
 a ter mais controle de seu gastos, dando dicas práticas com tom claro e simples 💸</p>
-<h4>Leia o txt para Informações de como utiliza-lo </h4>
+
+<h3>Leia o txt para Informações de como utiliza-lo </h3>
 <H3>CREDITOS:
 GUSTAVO MENEZES,
 JULIA KITANO,
