@@ -4,7 +4,9 @@
 <p>Irá ajudar o usuário nas questões financeiras,
 a ter mais controle de seu gastos, dando dicas práticas com tom claro e simples 💸</p>
 
-<h3>Leia o txt para Informações de como utiliza-lo </h3>
+<a rel=“requirements.txt ”
+  <h3>Leia o txt para Informações de como utiliza-lo </h3>
+</a>
 <H3>CREDITOS:
 GUSTAVO MENEZES,
 JULIA KITANO,
