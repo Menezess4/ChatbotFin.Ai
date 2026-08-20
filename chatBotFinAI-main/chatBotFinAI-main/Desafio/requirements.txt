@@ -1,5 +1,6 @@
 # Dependências do projeto meu_chatbot
 # Instale com: pip install -r requirements.txt
+#alem disso você devera usar sua propria chave api gratuita por meio do site da groq (Por SUA seguranca não vamos disponibilizar 
 
 groq           # SDK oficial da Groq (gratuito!) — console.groq.com
 flask          # Servidor web / API
